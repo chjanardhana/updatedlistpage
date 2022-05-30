@@ -1,0 +1,76 @@
+.searchBar {
+  width: 34rem;
+  margin: 1.4rem;
+  height: 2.5rem;
+}
+.advSearchLabel {
+  font-size: 0.9em;
+  color: blue;
+  position: absolute;
+  margin-left: 28rem;
+  text-decoration: underline;
+  cursor: pointer;
+}
+.noteText {
+  width: 23rem !important;
+  /* display: block;   */
+}
+.entryLabel {
+  margin: 1rem;
+  float: right;
+}
+.sourceInput {
+  width: 200px;
+  height: 2.5em;
+}
+.listyleNone {
+  list-style-type: none;
+}
+.ant-collapse-header {
+  color: blue !important;
+}
+.addressBlock {
+  padding: 1rem;
+  border: 2px solid #999999;
+  background: #eeeeee;
+  /* margin-bottom: 1rem; */
+}
+.addressInputsWidth {
+  width: 18rem !important;
+  margin-bottom: 1rem;
+}
+.inputBlock {
+  background: #eeeeee;
+  border: 2px solid #999999;
+  padding: 1rem;
+  width: 17rem;
+}
+.borderCCcolor {
+  border: 1px solid #cccccc;
+}
+.defSelect .ant-select-selector {
+  border: none !important;
+  font-size: 1.4em;
+}
+.defSelect .ant-select-show-arrow {
+  display: none;
+}
+/*   */
+.ant-collapse {
+  border: none !important;
+}
+.ant-collapse-content {
+  border-top: none !important;
+}
+.ant-collapse > .ant-collapse-item {
+  border-bottom: none !important;
+}
+
+.ant-collapse-content > .ant-collapse-content-box{
+  padding: 8px !important;
+}
+.sideBar{
+  overflow-y: scroll;
+  margin: 1rem;
+  height: 400px;
+};
