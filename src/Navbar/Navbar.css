@@ -1,0 +1,31 @@
+.header {
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid rebeccapurple;
+  }
+  .imgWidth {
+    width: 7rem;
+  }
+  .nav-links ul {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .nav-links li {
+    list-style: none;
+    padding: 10px 15px 0px 10px;
+    /* padding: 0 15px; */
+    /* margin-top: 10px; */
+    color: #426da9 !important;
+  }
+  
+  .fnetName {
+    font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #333333;
+    display: inline-block;
+    padding: 10px 0 0px 20px;
+    border-left: 1px solid transparent;
+  }
+  
